@@ -1,0 +1,16 @@
+# Expo
+.expo/*
+
+# Platfoms files
+*.jks
+*.p12
+*.key
+*.mobileprovision
+
+# OSX
+.DS_Store
+
+# node.js
+node_modules/**/*
+npm-debug.*
+yarn-error.log
