@@ -15,7 +15,7 @@
     "apisauce": "^1.0.2",
     "expo": "^32.0.0",
     "finance-logic-js": "^1.0.7",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.21",
     "moment": "^2.24.0",
     "prop-types": "^15.6.2",
     "rc-slider": "^8.6.5",
